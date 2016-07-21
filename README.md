@@ -11,7 +11,6 @@
 
 3. [PID_D.m](https://github.com/Jon-Wang/PID/blob/master/PID_D.m)：微分控制作用分析
 
-4. [PID_D_approx.m](https://github.com/Jon-
-Wang/PID/blob/master/PID_D_approx.m)：近似微分控制作用分析
+4. [PID_D_approx.m](https://github.com/Jon-Wang/PID/blob/master/PID_D_approx.m)：近似微分控制作用分析
 
 5. [PID_D_feedback.m](https://github.com/Jon-Wang/PID/blob/master/PID_D_feedback.m)：微分动作在反馈回路的PID控制作用分析
